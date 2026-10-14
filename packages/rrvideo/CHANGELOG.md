@@ -1,5 +1,12 @@
 # rrvideo
 
+## 2.1.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - rrweb-player@2.1.8
+
 ## 2.1.7
 
 ### Patch Changes

@@ -1,5 +1,12 @@
 # rrdom
 
+## 2.1.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - rrweb-snapshot@2.1.8
+
 ## 2.1.7
 
 ### Patch Changes

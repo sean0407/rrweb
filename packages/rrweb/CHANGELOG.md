@@ -1,5 +1,15 @@
 # rrweb
 
+## 2.1.8
+
+### Patch Changes
+
+- Updated dependencies []:
+  - rrweb-snapshot@2.1.8
+  - rrdom@2.1.8
+  - @rrweb/types@2.1.8
+  - @rrweb/utils@2.1.8
+
 ## 2.1.7
 
 ### Patch Changes

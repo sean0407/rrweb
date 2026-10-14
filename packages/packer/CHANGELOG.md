@@ -1,5 +1,14 @@
 # @rrweb/packer
 
+## 2.1.8
+
+### Patch Changes
+
+- [#1960](https://github.com/rrweb-io/rrweb/pull/1960) [`0d6fc66`](https://github.com/rrweb-io/rrweb/commit/0d6fc6685a0e99eb0cc7fd310e1d7e8164c74568) Thanks [@Juice10](https://github.com/Juice10)! - Update fflate from 0.4.8 to 0.4.9 and require at least 0.4.9 for event packing and unpacking.
+
+- Updated dependencies []:
+  - @rrweb/types@2.1.8
+
 ## 2.1.7
 
 ### Patch Changes

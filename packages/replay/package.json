@@ -1,6 +1,6 @@
 {
   "name": "@rrweb/replay",
-  "version": "2.1.7",
+  "version": "2.1.8",
   "publishConfig": {
     "access": "public"
   },
@@ -63,8 +63,8 @@
     "typescript": "^5.4.5"
   },
   "dependencies": {
-    "@rrweb/types": "^2.1.7",
-    "rrweb": "^2.1.7"
+    "@rrweb/types": "^2.1.8",
+    "rrweb": "^2.1.8"
   },
   "browserslist": [
     "supports es6-class"
